@@ -16,6 +16,16 @@
 
 ---
 
+### 🪙 // Supported Assets & Protocols
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bitcoin-BTC-%23F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Bitcoin"/>
+  <img src="https://img.shields.io/badge/Ethereum-ETH-%233C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum"/>
+  <img src="https://img.shields.io/badge/Monero-XMR-%23FF6600?style=for-the-badge&logo=monero&logoColor=white" alt="Monero"/>
+</p>
+
+---
+
 ### ⚙️ // Tech Stack & Programming Languages
 
 <p align="center">
@@ -66,6 +76,16 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahP2P&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" alt="Top Languages" />
+</p>
+
+---
+
+### 🔒 Security Status & Compliance
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Encryption-AES--256-00FF66?style=flat-square&logo=letsencrypt&logoColor=00FF66" alt="Encryption"/>
+  <img src="https://img.shields.io/badge/Connection-Onion%20Routed-7D4698?style=flat-square&logo=torproject&logoColor=white" alt="Tor"/>
+  <img src="https://img.shields.io/badge/Firewall-Active-00FF66?style=flat-square&logo=icloud&logoColor=00FF66" alt="Firewall"/>
 </p>
 
 ---
