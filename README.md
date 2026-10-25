@@ -1,6 +1,6 @@
 <!-- تأثير بصري يدمج الهوية البرمجية مع عالم P2P، العملات الرقمية، التداول، والدارك نت -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:0d1117&height=200&section=header&text=Abdallah%20Mohamed&fontSize=40&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=Crypto%20Trader%20&%20Dark%20Net%20Security%20Architect&descSize=15&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:0d1117&height=200&section=header&text=Abdallah%20Mohamed&fontSize=40&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=Crypto%20Trader%20&%20Dark%20Net%20Security%20Architect&descSize=15&descColor=00ff66" width="100%"/>
 </p>
 
 <h3 align="center">
@@ -10,9 +10,23 @@
 ---
 
 ### 🟢 // System Status: Online [Matrix & Onion Node Active]
-* ⚡ **Focus:** Crypto Trading, P2P Exchange Architectures, & EVM Wallets.
-* 🛡️ **Specialty:** Anonymity Protocols, Hidden Services, & Anti-Fraud Systems.
-* 🌐 **Ecosystem:** JavaScript, PHP, Tor/.onion Networks, and Distributed Ledgers.
+* ⚡ **Focus:** Crypto Trading, P2P Exchange Architectures, & EVM Smart Contracts.
+* 🛡️ **Specialty:** Anonymity Protocols, Hidden Services (Tor), & Anti-Fraud Systems.
+* 🌐 **Infrastructure:** Distributed Ledgers, Decentralized Nodes, & Automation Scripts.
+
+---
+
+### ⚙️ // Tech Stack & Programming Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=torproject&logoColor=white" alt="Tor"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
 ---
 
