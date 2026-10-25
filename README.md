@@ -30,6 +30,17 @@
 
 ---
 
+### 🛡️ // Security & Network Architecture
+
+| Protocol / Layer | Status | Description |
+| :--- | :---: | :--- |
+| **Tor Network (.onion)** | `Active` | Hidden services routing & onion encryption. |
+| **P2P Escrow Flow** | `Secure` | Decentralized trade execution & anti-fraud. |
+| **EVM Smart Contracts** | `Audited` | Multi-chain token generation & deployment. |
+| **API Automations** | `Online` | Real-time price tracking & data feeds. |
+
+---
+
 ### 💻 Popular Matrix & P2P Repositories
 
 <p align="center">
@@ -50,6 +61,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahP2P&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahP2P&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
@@ -65,6 +80,15 @@
     <img src="https://img.shields.io/badge/YouTube-ApathyP2P-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <code>[root@matrix-node ~]# ./execute_secure_p2p --encrypt --decentralize</code><br>
+  <i>"Trust code, verify math, and protect your digital footprint."</i>
+</p>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbdallahP2P&color=00ff66&label=Matrix+Visitors&style=flat-square" alt="Visitor Count" />
