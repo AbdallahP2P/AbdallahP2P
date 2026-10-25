@@ -1,18 +1,19 @@
 <!-- تأثير بصري يدمج الهوية البرمجية مع عالم P2P وماتريكس -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:0d1117&height=200&section=header&text=Abdallah%20Mohamed&fontSize=40&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=P2P%20Developer%20&%20Crypto%20Security%20Enthusiast&descSize=15&descColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:0d1117&height=220&section=header&text=Abdallah%20Mohamed&fontSize=38&fontColor=00ff66&animation=fadeIn&fontAlignY=38&desc=P2P%20Exchange%20Architect%20&%20Crypto%20Security%20Specialist&descSize=14&descColor=ffffff" width="100%"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Securing+P2P+Transactions;Building+Web3+Tools;Decentralized+Matrix+Flow" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=550&lines=Securing+P2P+Transactions;Advanced+Arbitrage+Engine;Building+Decentralized+Tools;Matrix+Node+Operational" alt="Typing SVG" />
 </h3>
 
 ---
 
 ### 🟢 // System Status: Online [Matrix Node Active]
-* ⚡ **Focus:** P2P Exchange Architectures, EVM Wallets, and Blockchain Automation.
-* 🛡️ **Specialty:** Smart Contracts, Security Auditing, and Anti-Fraud Systems.
-* 🌐 **Ecosystem:** JavaScript, PHP, CSS, and Distributed Ledgers.
+
+* ⚡ **Core Focus:** P2P Exchange Architectures, EVM Wallets, Cross-Border Arbitrage, and Blockchain Automation.
+* 🛡️ **Security & Auditing:** Smart Contracts Protection, Escrow Mechanics, and Advanced Anti-Fraud Systems.
+* 🌐 **Tech Stack:** JavaScript, PHP, CSS, Distributed Ledgers, and Secure Network Protocols.
 
 ---
 
@@ -25,6 +26,14 @@
   <a href="https://github.com/AbdallahP2P/bitcoin-address-generator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=AbdallahP2P&repo=bitcoin-address-generator&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF66&icon_color=00FF66" alt="bitcoin-address-generator" />
   </a>
+</p>
+
+---
+
+### 🛠️ // Technical Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,javascript,php,css,html,linux,bash,nodejs,vscode&theme=dark" alt="Tech Stack"/>
 </p>
 
 ---
