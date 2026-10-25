@@ -93,12 +93,10 @@
 ### 🌐 Connect With The Network
 
 <p align="center">
-  <a href="https://t.me/Bitcoin_Secrets_P2P" target="_blank">
+  <a href="https://t.me/StrategyPs" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://youtube.com/@ApathyP2P" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-ApathyP2P-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
+
 </p>
 
 <br/>
